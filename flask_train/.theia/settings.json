@@ -1,0 +1,4 @@
+{
+    "csharp.suppressDotnetRestoreNotification": false,
+    "python.pythonPath": "flask_train/bin/python3.7"
+}
